@@ -1,0 +1,19 @@
+# Terraform state
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+
+# Crash log
+crash.log
+
+# Terraform variable files
+*.tfvars
+
+# SSH keys
+*.pem
+*.key
+terraform-key-day7
+terraform-key-day7.pub
+
