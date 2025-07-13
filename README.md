@@ -170,4 +170,4 @@ terraform-vpc-prod-ec2/
 
 **Annu Lohan**  
 DevOps Enthusiast | Practical Learner | Automation Lover  
-🔗 [LinkedIn](https://www.linkedin.com/in/annulohan) | 💼 More Projects Coming Soon!
+🔗 [LinkedIn](https://www.linkedin.com/in/annu-rani-lohan-069146ba/) | 💼 More Projects Coming Soon!
